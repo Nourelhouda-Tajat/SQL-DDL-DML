@@ -109,4 +109,18 @@ Exemple : Un étudiant suit plusieurs cours, et un cours est suivi par plusieurs
 **CHECK** : Condition personnalisée (ex: age > 18)
 
 **DEFAULT** : Valeur par défaut si non spécifiée
+
+5. Diagrammes Entité-Association (ERD)
+Un ERD (Entity-Relationship Diagram) est une représentation visuelle de la structure d'une base de données. Il illustre :​
+
+- **Les entités** (tables) sous forme de rectangles
+- **Les attributs** (colonnes) listés dans chaque entité
+- **Les relations** symbolisées par des lignes avec cardinalités
+
+Notation des cardinalités :
+1 : Un seul
+N ou * : Plusieurs
+0..1 : Zéro ou un
+1..* : Un ou plusieurs
+
 # Phase 3: SQL Foundations
